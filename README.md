@@ -1,5 +1,5 @@
 # ICP_GUI_Cpp-CLI_NewWindowsForms
-_Created for the course "Integrated development environments for creating GUI applications" Kharkiv National University named after Karazin_
+_Created for the course "Integrated development environments for creating GUI applications" V. N. Karazin Kharkiv National University_
 
 Empty new project in Visual Studio 2022 on C++ CLR using .NET Framework 4.8.
 
